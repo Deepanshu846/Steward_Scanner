@@ -224,9 +224,6 @@ If you're an AI agent working on this repo, also read [`CLAUDE.md`](CLAUDE.md) f
 
 ---
 
-## License
-
-Apache 2.0 — see [LICENSE](LICENSE).
 
 ## Acknowledgments
 
